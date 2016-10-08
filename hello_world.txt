@@ -1,4 +1,4 @@
-Something new.
+Something new and better.
 Sat Oct  8 11:39:40 CDT 2016
 something new
-and something even more new
+an even more new line of text
